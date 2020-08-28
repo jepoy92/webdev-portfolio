@@ -16,4 +16,4 @@ This app automatically creates a password based on the options the user chooses 
 
 Using this app allows the user to track daily tasks they need to get done throughout the day. The app is divided by hour which automatically changes according to the local time of user. The user can also save their tasks so that they can even view their tasks after closing the app.
 
-[link to portfolio!](http://google.com)
+[link to portfolio!](https://jepoy92.github.io/webdev-portfolio/
