@@ -1,0 +1,42 @@
+.navbar-nav ml-auto {
+    background-color: #00FFFF;
+    color: white;
+}
+
+#SpaceShip {
+    margin-top: auto;
+    padding-top: 36px;
+    padding-right: 36px;
+}
+.icon {
+    width: 36px;
+    height: 36px;
+}
+
+#Message {
+    width: 100%;
+    height: auto;
+}
+
+footer {
+    float:bottom;
+    height: 50px;
+    margin-top:15%;
+    margin-right: 15%;
+}
+
+h1 {
+    width:auto;
+    text-align:center;
+}
+
+.card {
+    margin: 0 auto; 
+    float: none; 
+    height:auto;
+    width:auto; 
+}
+
+#img {
+    height:200px
+}
