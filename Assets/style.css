@@ -1,0 +1,29 @@
+body {
+    background-image:url("../assets/background.jpg");
+}
+
+#project-1 {
+    width: 85%;
+    height: 75%;
+}
+
+#project-2 {
+    width: 85%;
+    height: 75%;
+}
+
+#main-project {
+    width: 75%;
+    height: 65%;
+    margin-left:-150px;
+}
+
+#About {
+    width: auto;
+    height: auto;
+    margin-top: auto;
+}
+
+#project-1, #project-2, #main-project {
+    margin-top: 100px;
+}
